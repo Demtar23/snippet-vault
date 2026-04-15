@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:3000";
+const API_URL = "https://snippet-vault-l84r.onrender.com";
  
 export type SnippetType = "link" | "note" | "command";
  
