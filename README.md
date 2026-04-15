@@ -42,6 +42,7 @@ Built with **Next.js (frontend)**, **NestJS (backend)** and **MongoDB**.
 ---
 
 ## 📁 Project Structure
+```bash
 snippet-vault/
 │
 ├── backend/        # NestJS API
@@ -52,6 +53,8 @@ snippet-vault/
 │   ├── app/
 │   ├── components/
 │   └── lib/
+
+```
 
 ---
 
